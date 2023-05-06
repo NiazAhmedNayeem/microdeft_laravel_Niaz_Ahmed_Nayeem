@@ -23,12 +23,6 @@
                                     <input class="form-control summernote" placeholder="Blog title" type="text" id="horizontal-email-input12" name="title">
                                 </div>
                             </div>
-                            <div class="form-group row mb-4">
-                                <label for="horizontal-email-input" class="col-sm-3 col-form-label">Author Name</label>
-                                <div class="col-sm-9">
-                                    <input class="form-control" type="text" placeholder="Author Name" id="horizontal-password-input" name="author"/>
-                                </div>
-                            </div>
 
                             <div class="form-group row mb-4">
                                 <label for="horizontal-password-input" class="col-sm-3 col-form-label">Description</label>
@@ -41,6 +35,13 @@
                                 <label for="horizontal-password-input4" class="col-sm-3 col-form-label">Image</label>
                                 <div class="col-sm-9">
                                     <input type="file" class="form-control-file" id="horizontal-password-input4" name="image"/>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-4">
+                                <label for="horizontal-email-input12" class="col-sm-3 col-form-label">Tag</label>
+                                <div class="col-sm-9">
+                                    <input class="form-control summernote" placeholder="Tag" type="text" id="horizontal-email-input12" name="tag">
                                 </div>
                             </div>
 
